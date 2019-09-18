@@ -24,7 +24,7 @@ class InputTextField extends StatelessWidget {
             borderRadius: new BorderRadius.circular(25),
             gapPadding: 5,
           )),
-      textAlign: TextAlign.right,
+      textAlign: TextAlign.left,
       obscureText: this._obscure,
     );
   }
